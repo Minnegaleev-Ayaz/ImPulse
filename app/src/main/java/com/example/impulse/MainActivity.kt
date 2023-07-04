@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        //1231йцуйу
+        //1231йцуйуadasd
 
     }
 }
